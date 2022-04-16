@@ -170,18 +170,18 @@ en-AU:
 # -------
 es: &DEFAULT_ES
   header:
-    title: ¡Bienvenido a nuestro Estudio!
+    title: ¡Bienvenido a Zanate!
     text: Es un placer conocerle
     button: Ver más
     buttonlink: "#servicios"
 
   services:
     title: "Servicios"
-    text: "Lorem ipsum"
+    text: "Lo que ofrecemos"
     section: servicios
     list:
-      - title: "Comercio Electrónico"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Alcancias"
+        desc: "Nuestras alcancias son las mejores."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Diseño Responsivo"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
@@ -192,7 +192,7 @@ es: &DEFAULT_ES
 
   portfolio:
     title: "Portafolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Nuestros productos de Zanate."
     section: portafolio
     closebutton: "Cerrar Proyecto"
 
@@ -229,7 +229,7 @@ es: &DEFAULT_ES
 
   about:
     title: "Sobre nosotros"
-    text: "nuestra historia"
+    text: "nuestra historia en Zanate "
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: nosotros
 
