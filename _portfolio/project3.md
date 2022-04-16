@@ -1,18 +1,20 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/03-full.jpg
+title: Regalos Especiales
+subtitle: Demuestra el cariño que le tienes a esa persona especial.
+#image: assets/img/portfolio/03-full.jpg
+image: assets/img/portfolio/img03.jpg
 alt: 
 
 caption:
-  title: Finish
-  subtitle: Identity
-  thumbnail: assets/img/portfolio/03-thumbnail.jpg
+  title: Regalos
+  subtitle: Plasma tu idea
+  #thumbnail: assets/img/portfolio/03-thumbnail.jpg
+  thumbnail: assets/img/portfolio/img03.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Podemos trabajar ideas tan elaboradas como tu lo desees. Trabajamos con material MDF y acrilico! 
 
 {:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
+- Ancho: desconocido
+- Alto: desconocido
+- Profundidad: desconocido
 

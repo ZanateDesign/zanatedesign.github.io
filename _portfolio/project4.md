@@ -1,18 +1,20 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/04-full.jpg
+title: Alcancias Regalo
+subtitle: Un regalo especial.
+#image: assets/img/portfolio/04-full.jpg
+image: assets/img/portfolio/img04.jpg
 alt: 
 
 caption:
-  title: Lines
-  subtitle: Branding
-  thumbnail: assets/img/portfolio/04-thumbnail.jpg
+  title: Alcancias
+  subtitle: El tamaño que desees
+  #thumbnail: assets/img/portfolio/04-thumbnail.jpg
+  thumbnail: assets/img/portfolio/img04.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+¡Alcancias grabadas en vidrio, pide la tuya! Trabajamos con material MDF y acrilico.
 
 {:.list-inline}
-- Date: October 2019
-- Client: Lines
-- Category: Branding
+- Ancho: desconocido
+- Alto: desconocido
+- Profundidad: desconocido
 

@@ -170,57 +170,57 @@ en-AU:
 # -------
 es: &DEFAULT_ES
   header:
-    title: ¡Bienvenido a nuestro Estudio!
+    title: ¡Bienvenido a Zanate!
     text: Es un placer conocerle
     button: Ver más
     buttonlink: "#servicios"
 
   services:
     title: "Servicios"
-    text: "Lorem ipsum"
+    text: "Lo que ofrecemos"
     section: servicios
     list:
-      - title: "Comercio Electrónico"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Diseño Responsivo"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Su descripción aquí, soporte completo de **Markdown**"
+      - title: "Artículos Personalizados"
+        desc: "Nuestras alcancias las personalizas tú."
+        icon: fas fa-pen-ruler #find more at https://fontawesome.com/icons
+      - title: "[Entregas en tiempo record](https://zanatedesign.github.io/assets/img/entregas.jpg)"
+        desc: "Productos y logistica excelentes."
+        icon: fas fa-shopping-cart
+      - title: "[Pide la tuya](https://chat.whatsapp.com/DIXy9cG9yTOENnh0TusfJj)" #grupo wats app web
+        desc: "Ofrecemos excelentes artículos al mejor precio **Personaliza la tuya**."
         icon: fab fa-markdown
 
   portfolio:
-    title: "Portafolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Catalogo de Artículos"
+    text: "Disfrute de estos y muchos más artículos."
     section: portafolio
-    closebutton: "Cerrar Proyecto"
+    closebutton: "Cerrar"
 
   timeline:
-    title: "Cronología"
-    text: "Lorem ipsum timeline"
+    title: "Nuestra historia"
+    text: "Conoce acerca de nuestros comienzo"
     section: cronologia
     # left is the default
     #start_align: "left"
     events:
       - title: "Nuestro Humilde Comienzo"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        year: "2021 - 2022"
+        desc: "Iniciando con equipo de practica con ideas fabulosas!"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "Una Agencia nace"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Una oportunindad surge"
+        year: "Julio 2022"
+        desc: "Construyendo espacio para tayer y adquisicion de equipo profesional!"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "La plantilla Jekyll es creada"
-        year: "2019"
-        desc: "Ravi Riley convirtió Agency, una plantilla basada en Bootstrap, en una plantilla de Jekyll. La plantilla Jekyll puede ser instalada commo una gema de Ruby (Ruby gem) o remotamente. Para más información, visite la documentación."
+      - title: "Grupo Zanate web"
+        year: "Agosto 2022"
+        desc: "Presencia en la web. Plantilla para **Grupo Zanate** surge con excelentes ideas y con muchas ganas de mejorar."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Título"
-        year: "2009-2011"
-        desc: "Su descripción aquí, **Markdown** es soportado completamente."
+      - title: "Continuara..."
+        year: "2022"
+        desc: "Trabajando duro todos los días."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
@@ -229,8 +229,8 @@ es: &DEFAULT_ES
 
   about:
     title: "Sobre nosotros"
-    text: "nuestra historia"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    text: "Grupo Zanate cumpliendo espectativas"
+    body: "Trabajamos día y noche para ofrecer el mejor producto posible, puedes ver mas acerca de lo que piensan de nosotros en nuestras **Redes Sociales**."
     section: nosotros
 
   clients:
@@ -253,12 +253,12 @@ es: &DEFAULT_ES
 
   team:
     title: "NUESTRO INCREÍBLE EQUIPO"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "Cuenta con nosotros, te apoyamos cuando lo necesites."
+    subtext: Nos ponemos en el lugar de los demás siendo conscientes de nuestras diferencias; por ello, promovemos nuestros valores y contamos con lineamientos que promueven la igualdad, el respecto y la no discriminación para que todas las personas reciban un trato digno y equitativo.
     section: equipo
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "Samuel Chaparro"
+        role: "Director de Producción"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -267,8 +267,8 @@ es: &DEFAULT_ES
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+      - name: "Ingrid González"
+        role: "Lider de Marketing Digital"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
@@ -277,8 +277,8 @@ es: &DEFAULT_ES
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
+      - name: "Victor Cuevas"
+        role: "Lider de Desarrollo"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
