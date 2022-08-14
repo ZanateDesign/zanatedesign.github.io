@@ -183,18 +183,18 @@ es: &DEFAULT_ES
       - title: "Alcancias"
         desc: "Nuestras alcancias son las mejores."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Diseño Responsivo"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Entregas en tiempo record"
+        desc: "Productos de excelente calidad."
         icon: fas fa-laptop
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Su descripción aquí, soporte completo de **Markdown**"
+        desc: "Ofrecemos excelentes artículos al **mejor precio**."
         icon: fab fa-markdown
 
   portfolio:
     title: "Portafolio"
     text: "Nuestros productos de Zanate."
     section: portafolio
-    closebutton: "Cerrar Proyecto"
+    closebutton: "Cerrar"
 
   timeline:
     title: "Cronología"
