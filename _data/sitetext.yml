@@ -180,11 +180,7 @@ es: &DEFAULT_ES
     text: "Lo que ofrecemos"
     section: servicios
     list:
-<<<<<<< HEAD
       - title: "Articulos Personalisados"
-=======
-      - title: "Alcancias"
->>>>>>> cd5c93db5f233f862b7490e9fe35fb6f5a136cb7
         desc: "Nuestras alcancias son las mejores."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Entregas en tiempo record"
@@ -195,13 +191,8 @@ es: &DEFAULT_ES
         icon: fab fa-markdown
 
   portfolio:
-<<<<<<< HEAD
     title: "Catalogo de Artículos"
     text: "Disfrute de estos y muchos más artículos."
-=======
-    title: "Portafolio"
-    text: "Nuestros productos de Zanate."
->>>>>>> cd5c93db5f233f862b7490e9fe35fb6f5a136cb7
     section: portafolio
     closebutton: "Cerrar"
 
