@@ -182,8 +182,8 @@ es: &DEFAULT_ES
     list:
       - title: "Artículos Personalizados"
         desc: "Nuestras alcancias las personalizas tú."
-        icon: fa-solid fa-pen-ruler #find more at https://fontawesome.com/icons
-      - title: "[Entregas en tiempo record][https://zanatedesign.github.io/assets/img/timeline/1.jpg]"
+        icon: fas fa-pen-ruler #find more at https://fontawesome.com/icons
+      - title: "[Entregas en tiempo record](https://zanatedesign.github.io/assets/img/entregas.jpg)"
         desc: "Productos y logistica excelentes."
         icon: fas fa-shopping-cart
       - title: "[Pide la tuya](https://chat.whatsapp.com/DIXy9cG9yTOENnh0TusfJj)" #grupo wats app web

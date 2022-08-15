@@ -1,18 +1,20 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/05-full.jpg
+title: Letras
+subtitle: Apoyamos y fabricamos tus ideas.
+#image: assets/img/portfolio/05-full.jpg
+image: assets/img/portfolio/img05.jpg
 alt: 
 
 caption:
-  title: Southwest
-  subtitle: Website Design
-  thumbnail: assets/img/portfolio/05-thumbnail.jpg
+  title: Letras
+  subtitle: Diversos materiales disponibles
+  #thumbnail: assets/img/portfolio/05-thumbnail.jpg
+  thumbnail: assets/img/portfolio/img05.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+¡Podemos fabricar letras de diversos materiales como MDF, acrilico entre otros!
 
 {:.list-inline}
-- Date: October 2019
-- Client: Southwest
-- Category: Website Design
+- Ancho: desconocido
+- Alto: desconocido
+- Profundidad: desconocido
 

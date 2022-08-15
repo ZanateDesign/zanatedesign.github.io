@@ -1,18 +1,20 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/01-full.jpg
+title: Alcancias Personalizadas
+subtitle: Puedes pedirnos los detalles que desees.
+#image: assets/img/portfolio/01-full.jpg
+image: assets/img/portfolio/img01.jpg
 alt: Shirts on a hanger
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  title: Alcancias
+  subtitle: Personaliza la tuya
+  #thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  thumbnail: assets/img/portfolio/img01.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Alcancias de todo tipo y tamaños, contacta con nosotros para mayor información. Trabajamos con material **MDF y acrilico**! 
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Ancho: desconocido
+- Alto: desconocido
+- Profundidad: desconocido
 
